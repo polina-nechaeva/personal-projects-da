@@ -9,3 +9,5 @@
 Лучшей моделью для предсказаний оттока выбрана LGBMClassifier. На кросс-валидации она показала метрику ROC_AUC = **0.892**, а на тестовых данных ROC_AUC = **0.914**.
 ### Инструменты:
 Pandas, Python, Matplotlib, Seaborn, numpy, исследовательский анализ данных, предобработка данных, sklearn: GridSearchCV, RandomForestClassifier, roc_auc_score,  catboost, lightgbm.
+### Статус проекта:
+Завершен.
